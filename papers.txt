@@ -1,0 +1,8 @@
+Locational Entropy and Directional Entropy of a multi-agent system. https://doi.org/10.1145/375735.376024
+Testing Action Space https://doi.org/10.1145/3099564.3099567
+Testing Observation Space, which dim is good or bad. https://arxiv.org/abs/2011.00756
+HOT model, which causes Power Law doi: 10.1103/PhysRevLett.84.2529
+Sim2Sim between Pybullet and Mujoco https://arxiv.org/abs/2010.14444
+How to write good code in academia. https://doi.org/10.3389/fninf.2017.00069
+Dogs and cats can survive after whole neocortex has been removed! https://doi.org/10.1037/h0071731
+Tell me more about free access to scientific publications, such as Library Genesis, Paperhub, or Sci-hub. https://arxiv.org/pdf/2006.14979.pdf
