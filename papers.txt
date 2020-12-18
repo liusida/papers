@@ -1,3 +1,20 @@
+RL2, fast adaptation, meta-RL, use RNN to replace MLP policy. https://arxiv.org/abs/1611.02779
+Learning to Adapt (in real world), quick adaptation, meta-RL. https://arxiv.org/abs/1803.11347
+Entropy Textbook DOI:10.1002/047174882X
+Defining Predictive Information https://doi.org/10.1162/089976601753195969
+Bring Predictive Information into robot swarm, but change the def of entropy 10.1140/epjb/e2008-00175-0
+Social Entropy https://doi.org/10.1007/BF01063441
+entropy and swarm. Four directions as states. doi: 10.1007/s11721-011-0055-y
+One application of Hierarchic Social Entropy. DOI: 10.1109/IROS.2011.6094454
+Hierarchic Social Entropy, use auto-determined cluster based on proximity as state. doi 10.1023/A:1008973424594
+A great paper, particle swarm optimization, use swarm to do optimization. 1995. 10.1109/ICNN.1995.488968
+entropy and swarm. clarify distribution in abstract. doi 10.1007/s42452-019-1845-x
+entropy and swarm. cross-entropy. modified probability. https://doi.org/10.3390/e22060597
+One Policy control multiple bodies. By rewiring the network modules, provides body topology information to the network. And train for a very long time.  https://arxiv.org/abs/2007.04976
+Train on different bodies and evaluate on the same set of bodies. Provide keyframes as reference points to make plausible animations. https://doi.org/10.1145/3355089.3356499
+Hebbian Learning, evolve a rule (with only 5 param) to update the weights. https://arxiv.org/abs/2007.02686
+Attaching morphology design information to the input space of RL https://arxiv.org/abs/1911.06832
+Small world network, reproduced in PoCS assignment 11 # https://doi.org/10.1038/30918
 Locational Entropy and Directional Entropy of a multi-agent system. https://doi.org/10.1145/375735.376024
 Testing Action Space https://doi.org/10.1145/3099564.3099567
 Testing Observation Space, which dim is good or bad. https://arxiv.org/abs/2011.00756
