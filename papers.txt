@@ -1,3 +1,5 @@
+Train a policy with many variated envs, so better sim2real, better performance during unseen env at test time. https://arxiv.org/abs/1703.06907
+MAML, find a better initialization weights for new task, can apply both to supervised learning and RL. https://arxiv.org/abs/1703.03400
 RL2, fast adaptation, meta-RL, use RNN to replace MLP policy. https://arxiv.org/abs/1611.02779
 Learning to Adapt (in real world), quick adaptation, meta-RL. https://arxiv.org/abs/1803.11347
 Entropy Textbook DOI:10.1002/047174882X
